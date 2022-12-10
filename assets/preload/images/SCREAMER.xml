@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SCREAMER.png">
+<SubTexture name="SCREAMER0000" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0001" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0002" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0003" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0004" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0005" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0006" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0007" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0008" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0009" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0010" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0011" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0012" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0013" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0014" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0015" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0016" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0017" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0018" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0019" x="1280" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0020" x="0" y="1441" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0021" x="1280" y="1441" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0022" x="2561" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0023" x="2561" y="720" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0024" x="2561" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0025" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0026" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0027" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0028" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0029" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0030" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0031" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0032" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+<SubTexture name="SCREAMER0033" x="0" y="0" width="1281" height="721" frameX="0" frameY="0" frameWidth="1281" frameHeight="721" />
+</TextureAtlas>
