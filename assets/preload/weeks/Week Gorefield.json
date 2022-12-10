@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Curious Cat",
+			"garfield",
+			[
+				212,
+				77,
+				41
+			]
+		],
+		[
+			"Metamorphosis",
+			"gorefield-phase-2",
+			[
+				212,
+				77,
+				41
+			]
+		],
+		[
+			"Hi Jon",
+			"gorefield-phase-3",
+			[
+				227,
+				227,
+				227
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "SCP-3166",
+	"weekName": "Vs Gorefield",
+	"freeplayColor": [
+		212,
+		77,
+		41
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
