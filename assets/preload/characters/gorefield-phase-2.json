@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gorefield idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Gorefield L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-127
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Gorefield D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				69
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gorefield Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gorefield R",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GOREFIELD_PHASE_2",
+	"position": [
+		10,
+		-10
+	],
+	"healthicon": "gorefield-phase-2",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		77,
+		41
+	],
+	"camera_position": [
+		-380,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 2.85662431941924
+}
